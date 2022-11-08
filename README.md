@@ -76,8 +76,7 @@ while "_" in resultList:
 print(">>>>>>>",randomWord,"<<<<<<<")
 ```
 Output console:
-```
-C:\Users\ADMIN\AppData\Local\Programs\Python\Python39\python.exe C:\Users\ADMIN\PycharmProjects\Hang_man\hang_man.py 
+``` 
 A new word = ['_', '_', '_', '_', '_', '_', '_', '_', '_', '_']
 Guess a letter of this word: s
 A new word = ['_', '_', '_', '_', '_', '_', 's', '_', '_', '_']
